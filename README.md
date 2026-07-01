@@ -15,7 +15,6 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new frameworks & tools**
 - 💬 Ask me about **Python, Java, Web Dev**
-- 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: **I love solving problems with code!**
 
 ---
@@ -63,14 +62,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://t.me/J1_CHANG_WOOK" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
